@@ -1,2 +1,2 @@
-# JusTalk
-react native project
+# Sheket
+android native app
